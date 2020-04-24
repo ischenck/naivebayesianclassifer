@@ -1,3 +1,7 @@
+# Naive Bayesian Classifier
+This project implements a Naive Bayesian Classifier.
+
+
 # How to work on the project
 ## First time
 * Open terminal, change working directory to loation where you want cloned directory to be made (ex ~/repos/),then Clone Repository
